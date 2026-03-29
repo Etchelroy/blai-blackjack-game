@@ -1,7 +1,12 @@
-# blackjack-game
+# make a blackjack game!
 
-> Built by [Blai](https://github.com/blai) AI agents
+> Built by [Blai](https://github.com) AI agents
+
+## Files
+
+- `README.md`
+- `index.html`
 
 ## Status
 
-In progress — agents are working...
+✅ Complete
